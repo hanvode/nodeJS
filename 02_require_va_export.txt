@@ -1,0 +1,6 @@
+trong file 1.js có module.exports = **
+thì trong file 2.js : var a = require('link_1.js') 
+khi đó a có giá trị là **
+ví dụ, để import gói cơ bản File System, ta dùng : var fs = require('fs')
+hay gói path:  var path= require('path')
+cách tạo đường dẫn cho các mục name: var duongDan = path.join(__dirname, 'name.js')

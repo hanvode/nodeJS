@@ -1,0 +1,4 @@
+cài đặt package: npm i ten_package
+lưu vào file package.json: npm.init
+hàm hay được dùng: lodash
+khi chạy 1 dự án load từ trên mạng về, nếu ko có node_modules, ta chỉ cần file package.json và chạy npm install
